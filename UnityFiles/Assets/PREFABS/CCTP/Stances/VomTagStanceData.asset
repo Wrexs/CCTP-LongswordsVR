@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb95a52b9ffbe3499d5d7c84ac2d5d0, type: 3}
+  m_Name: VomTagStanceData
+  m_EditorClassIdentifier: 
+  stanceName: VomTag
+  favourDownwardsStrike: 1
+  favourUpwardsStrike: 0
+  favourHorizontalStrike: 0
+  favourThrust: 0
+  requiredGeneralDirection: 1
+  requiredRelativityToHead: 0
+  requiredPlane: 1
+  stanceID: 0
